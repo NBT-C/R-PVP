@@ -1,0 +1,8 @@
+Database:
+  Host: 'localhost'
+  Port: 3306
+  Database: 'radium'
+  Username: 'root'
+  Password: 'radium'
+  DatabaseProperties: ''
+  MaximumPoolSize: 3

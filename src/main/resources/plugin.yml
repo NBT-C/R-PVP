@@ -1,0 +1,7 @@
+name: PvP
+version: '1.8'
+author: "ﺲﺘﺒﻧ ﺦﻴﺸﻟﺍ"
+main: org.radium.rpvp.Core
+commands:
+  map:
+  save:
